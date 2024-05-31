@@ -77,5 +77,4 @@ def avahi_browse():
 if __name__ == '__main__':
     while True:
         avahi_browse()
-        print(1)
         time.sleep(float(delay))
