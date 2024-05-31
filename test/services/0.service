@@ -1,0 +1,7 @@
+<service-group>
+  <name replace-wildcards="yes">lab1/robot1</name>
+  <service protocol="ipv4">
+    <type>_service0._tcp</type>
+    <port>6469</port>
+  </service>
+</service-group>
