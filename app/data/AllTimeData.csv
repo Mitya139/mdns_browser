@@ -1,0 +1,30 @@
++,br-3019c9a7f910,IPv4,lab1/robot3,2024-05-31 11:35:47
++,br-05b4f5d816df,IPv4,lab1/robot2,2024-05-31 11:35:47
++,br-da55f666cef0,IPv4,lab2/robot3,2024-05-31 11:35:47
++,docker0,IPv4,lab2/robot3,2024-05-31 11:35:47
++,br-05b4f5d816df,IPv4,lab1/robot1,2024-05-31 11:35:47
++,br-96e7cb70af60,IPv4,lab1/robot2,2024-05-31 11:35:47
++,wlp0s20f3,IPv4,"{""nm"":""Redmi Note 11"",""as"":""[8194]"",""ip"":""128""}",2024-05-31 11:35:47
++,wlp0s20f3,IPv4,lab1/robot2,2024-05-31 11:35:47
++,br-da55f666cef0,IPv4,lab1/robot2,2024-05-31 11:35:47
++,br-3019c9a7f910,IPv4,lab2/robot3,2024-05-31 11:35:47
++,br-96e7cb70af60,IPv4,lab1/robot3,2024-05-31 11:35:47
++,br-96e7cb70af60,IPv4,lab2/robot3,2024-05-31 11:35:47
++,lo,IPv4,lab1/robot3,2024-05-31 11:35:47
++,wlp0s20f3,IPv4,lab2/robot3,2024-05-31 11:35:47
++,br-3019c9a7f910,IPv4,lab1/robot1,2024-05-31 11:35:47
++,br-da55f666cef0,IPv4,lab1/robot3,2024-05-31 11:35:47
++,br-05b4f5d816df,IPv4,lab2/robot3,2024-05-31 11:35:47
++,br-3019c9a7f910,IPv4,lab1/robot2,2024-05-31 11:35:47
++,lo,IPv4,lab2/robot3,2024-05-31 11:35:47
++,br-96e7cb70af60,IPv4,lab1/robot1,2024-05-31 11:35:47
++,wlp0s20f3,IPv6,"{""nm"":""Redmi Note 11"",""as"":""[8194]"",""ip"":""128""}",2024-05-31 11:35:47
++,lo,IPv4,lab1/robot1,2024-05-31 11:35:47
++,docker0,IPv4,lab1/robot1,2024-05-31 11:35:47
++,br-05b4f5d816df,IPv4,lab1/robot3,2024-05-31 11:35:47
++,lo,IPv4,lab1/robot2,2024-05-31 11:35:47
++,docker0,IPv4,lab1/robot3,2024-05-31 11:35:47
++,br-da55f666cef0,IPv4,lab1/robot1,2024-05-31 11:35:47
++,wlp0s20f3,IPv4,lab1/robot1,2024-05-31 11:35:47
++,wlp0s20f3,IPv4,lab1/robot3,2024-05-31 11:35:47
++,docker0,IPv4,lab1/robot2,2024-05-31 11:35:47
